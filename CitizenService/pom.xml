@@ -70,6 +70,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>citizen-service-docker</finalName>
 	</build>
 
 </project>
