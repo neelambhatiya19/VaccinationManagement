@@ -70,7 +70,11 @@
 				</configuration>
 			</plugin>
 		</plugins>
+<<<<<<< .mine
 		<finalName>citizen-service-docker</finalName>
+=======
+		<finalName>spring-boot-docker</finalName>
+>>>>>>> .theirs
 	</build>
 
 </project>
